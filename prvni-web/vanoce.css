@@ -1,0 +1,38 @@
+body{
+    position: relative;
+    background-image: url(file:///l%3A/%C5%BD%C3%81CI/2024-2025/TWA%20-%203.I/%C5%A1ablona/img/bg.jpg)
+}
+.content{
+    max-width: 1152px;
+    margin: auto;
+    padding: 4%;
+}
+
+p{
+    color: chartreuse;
+}
+
+h1{
+    color: chartreuse;
+}
+
+h2{
+    color: chartreuse;
+}
+
+a{
+    color: red;
+    text-decoration: none;
+
+}
+th {
+    color: chartreuse;
+}
+td{
+    color: chartreuse;
+}
+
+a:hover {
+    color: white;
+    text-decoration: underline;
+}
